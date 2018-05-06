@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72a7df66cd76b194bb5fcbeb759c798e, type: 3}
   m_Name: Options
   m_EditorClassIdentifier: 
-  _isPopup: 0
+  _isPopup: 1
   _onExit: 0
   _onEnter: 0
   _validFlow:
