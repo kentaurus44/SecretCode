@@ -15,7 +15,7 @@ MonoBehaviour:
   _onExit: 0
   _onEnter: 0
   _validFlow:
-  - _flow: Options
-    _action: Open
   - _flow: Game
+    _action: Open
+  - _flow: Options
     _action: Open

@@ -14,3 +14,6 @@ MonoBehaviour:
   _isPopup: 0
   _onExit: 0
   _onEnter: 0
+  _validFlow:
+  - _flow: Main
+    _action: Open
